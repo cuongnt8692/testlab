@@ -1,2 +1,0 @@
-﻿# testlab
-HELLO WORLD
